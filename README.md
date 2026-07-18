@@ -1,6 +1,7 @@
 <header>
-  <h1>Erick Rojo 🖔</h1>
+  <img src="roomSec.gif">
 </header>
+
 <br>
 <h2> ✍🏽 Sobre mi:</h2>
 <p> 🛡️ Defensive Security Engineer  | 💙 BlueTeam | </p>
